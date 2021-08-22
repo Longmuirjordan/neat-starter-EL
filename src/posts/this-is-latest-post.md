@@ -1,9 +1,10 @@
 ---
 title: This is my fourth & latest post
+cover: https://images.unsplash.com/photo-1524041255072-7da0525d6b34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80
 description: Bring to the table win-win survival strategies to ensure proactive
-  domination. At the end of the day, going forward, a new normal that has
-  evolved from generation X is on the runway heading towards a streamlined cloud
-  solution.
+    domination. At the end of the day, going forward, a new normal that has
+    evolved from generation X is on the runway heading towards a streamlined cloud
+    solution.
 date: 2020-09-23T15:13:13.021Z
 author: Surjith S M
 tags: second-tag

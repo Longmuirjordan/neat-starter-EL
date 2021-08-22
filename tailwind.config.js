@@ -1,19 +1,22 @@
 module.exports = {
-  purge: {
-    mode: "all",
-    content: ["./**/*.html"],
-    options: {
-      whitelist: [],
+    purge: {
+        mode: "all",
+        content: ["./**/*.html"],
+        options: {
+            whitelist: [],
+        },
     },
-  },
-  theme: {
-    container: {
-      center: true,
+    theme: {
+        container: {
+            center: true,
+        },
+        extend: {
+            colors: {},
+        },
     },
-    extend: {
-      colors: {},
-    },
-  },
-  variants: {},
-  plugins: [require("@tailwindcss/typography")],
+    variants: {},
+    plugins: [
+        require("@tailwindcss/typography"),
+        require("@tailwindcss/forms"),
+    ],
 };

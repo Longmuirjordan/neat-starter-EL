@@ -3,10 +3,10 @@ layout: default
 prism: true
 ---
 
-<div class="container max-w-4xl mt-6  px-6">
-    <div class="pb-5 mb-5 border-b border-gray-100">
-        <h1 class="font-bold text-5xl">{{title}}</h1>
-        <p class="text-center text-base leading-6 font-medium text-gray-500">
+<div style="background-image: url({{ cover }})" class="w-full p-16 md:py-64 bg-cover bg-center flex justify-center items-center relative -mt-12">
+    <div class="p-4 text-white relative z-20">
+        <h1 class="font-bold text-5xl leading-snug">{{title}}</h1>
+        <p class="text-center text-base leading-6 font-medium text-gray-200 mt-4">
             <time> {{ date | readableDate }}
                 by
                 <a>{{ author }}</a>
@@ -15,7 +15,12 @@ prism: true
         </p>
 
     </div>
-    <article class="prose lg:prose-xl my-4 mx-auto">
+
+    <span class="absolute w-full h-full top-0 left-0 z-10 bg-gray-900 bg-opacity-75"></span>
+</div>
+
+<div class="container max-w-4xl  px-6">
+    <article class="prose lg:prose-xl my-16 mx-auto">
         {{ content | safe }}</article>
 
 </div>

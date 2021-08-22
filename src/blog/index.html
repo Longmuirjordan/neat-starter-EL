@@ -2,11 +2,15 @@
 layout: blog
 ---
 
-<section class="mt-15">
+<section class="grid grid-cols-3 gap-10">
     {% set postslist = collections.post %}
 
     {% for post in postslist | reverse %}
-        <article class="my-8">
+        <article class="my-8 hover:opacity-75 transition-opacity">
+            {% if post.data.cover %}
+                <div style="background-image: url({{ post.data.cover }})" class="w-full h-96 mb-4 bg-center bg-cover"></div>
+            {% endif %}
+            
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
                     {% if post.data.title %}
@@ -31,7 +35,7 @@ layout: blog
             {% endif %}
 
             <p>
-                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
+                <a href="{{ post.url | url }}" class="text-green-700 font-bold text-lg">
                     Read more →
                 </a>
             </p>

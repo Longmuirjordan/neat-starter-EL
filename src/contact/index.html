@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<main class="w-full flex flex-col items-center pt-0 pb-24 px-6">
+
+ <article class="max-w-screen-2xl w-full flex flex-col">
+
+    <h1 class="text-3xl md:text-5xl font-extrabold text-green-900 w-full text-left">Contact Us</h1>
+    <h2 class="text-lg text-gray-500 mt-2 mb-10 max-w-prose">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</h2>
+    
+    <form name="contact" method="POST" netlify class="w-full max-w-prose border border-gray-200 flex flex-col space-y-6 p-5">
+
+        <label class="flex flex-col">
+        Your name
+
+        <input class="mt-2" type="text" name="name" placeholder="eg. Alec Tonkin"/>
+        </label>
+
+        <label class="flex flex-col">
+        Your email address 
+
+        <input class="mt-2" type="email" name="email" placeholder="eg. tonks@hotmail.com"/>
+        </label>
+
+        <label class="flex flex-col">
+        Message
+
+        <textarea class="mt-2" placeholder="eg. tonks@hotmail.com"></textarea>
+        </label>
+
+        <div data-netlify-recaptcha="true"></div>
+
+        <button type="submit" class="bg-green-700 text-white font-semibold py-3 px-4 hover:bg-green-600 transition-colors">Submit</button>
+
+    </form>
+ </article>
+
+</main>
