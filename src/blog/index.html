@@ -9,7 +9,7 @@ title: "Emergent Living - Blog"
     {% for post in postslist | reverse %}
         <article class="hover:opacity-75 transition-opacity">
             {% if post.data.cover %}
-                <div style="background-image: url({{ post.data.cover }})" class="w-full h-96 mb-4 bg-center bg-cover"></div>
+               <a href="{{ post.url | url }}"> <div style="background-image: url({{ post.data.cover }})" class="w-full h-96 mb-4 bg-center bg-cover"></div></a>
             {% endif %}
             
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
