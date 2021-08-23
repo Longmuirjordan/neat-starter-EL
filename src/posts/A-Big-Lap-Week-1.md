@@ -1,7 +1,7 @@
 ---
-title: A Big Lap Week 1-2
+title: A Big Lap Week 1
 cover: https://res.cloudinary.com/da9kyfhwo/image/upload/v1629689946/DSC04838_ktkwl0.jpg
-description: The first 2 weeks of my lap around Australia, spent in Hervey Bay and Airlie Beach.
+description: The first week of my lap around Australia, spent in Hervey Bay at Virtue Farms.
 author: Jordan Longmuir
 date: 2021-08-10
 tags:
@@ -14,11 +14,16 @@ In contrast the first week of the trip was spent at a permaculture farm on the F
 
 I saw permaculture as a holistic way to live off-grid, produce zero waste, recycle and upcycle, be truly self-sufficient while sharing that experience and knowledge with others. I completed the Milkwood permaculture living course and started reading several books on permaculture design. I was able to put into practice what I had learnt about rain water harvesting, bee keeping, planting and harvesting edible and non-edible plants, bush regeneration and community building. In the first week of the trip I had already learnt and achieved more than I could of asked for.
 
+ <img src="https://res.cloudinary.com/da9kyfhwo/image/upload/v1629725428/A-Big-Lap-Week-1/DSC04731_fcmcnw.jpg" alt="Market Garden Rows"/>
+ <img src="https://res.cloudinary.com/da9kyfhwo/image/upload/v1629725004/A-Big-Lap-Week-1/DSC04681_zqjh7c.jpg" alt="Flowhives"/>
+
 The reason I found this so powerful is that there is no way I would of spent 7 days volunteering 12 hours' drive away from Sydney when I worked full time. The four weeks annual leave was reserved for overseas holidays and 4wding trips not self-development.
 
 Therefore in the first week I had already come to understand the power of taking a break from career full time work even though there is a sense of uncertainty that comes with being unemployed. As well as how difficult it was to leave my job that I loved, a share house where I felt I belonged and a fear of being alone for long periods of time.
 
 But those barriers were trumped by the fact I had already put 100s of hours into building a campervan, I had no significant other in Sydney, I wanted a new job to challenge me and to study something other than IT, my share house was going our separate ways, Jobtrainer subsidy was available and I had savings to support me for 6 months of travel. It shouldn't be so hard to take time away from full time work for self-development, it's really something we need to normalise as a society.
+
+ <img src="https://res.cloudinary.com/da9kyfhwo/image/upload/v1629725335/A-Big-Lap-Week-1/DSC04784_yw8faf.jpg" alt="Mother Kangaroo"/>
 
 I feel really grateful to have this experience so early on in the trip which has allowed me to ease into living on the road which is a huge adjustment in itself. I'm excited and optimistic for the rest of the trip and all the things I will learn including things I will learn about myself.
 
